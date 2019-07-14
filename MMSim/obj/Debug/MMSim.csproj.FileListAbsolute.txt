@@ -1,0 +1,7 @@
+C:\Users\TOMMY\source\repos\MarchMadnessSimulator\MMSim\bin\Debug\MMSim.exe.config
+C:\Users\TOMMY\source\repos\MarchMadnessSimulator\MMSim\bin\Debug\MMSim.exe
+C:\Users\TOMMY\source\repos\MarchMadnessSimulator\MMSim\bin\Debug\MMSim.pdb
+C:\Users\TOMMY\source\repos\MarchMadnessSimulator\MMSim\obj\Debug\MMSim.csprojAssemblyReference.cache
+C:\Users\TOMMY\source\repos\MarchMadnessSimulator\MMSim\obj\Debug\MMSim.csproj.CoreCompileInputs.cache
+C:\Users\TOMMY\source\repos\MarchMadnessSimulator\MMSim\obj\Debug\MMSim.exe
+C:\Users\TOMMY\source\repos\MarchMadnessSimulator\MMSim\obj\Debug\MMSim.pdb
